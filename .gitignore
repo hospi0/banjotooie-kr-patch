@@ -1,0 +1,13 @@
+# 허용 목록: 소스·문서·번역 텍스트만(ROM·빌드·my files 금지)
+*
+!.gitignore
+!README.md
+!tools/
+!tools/*.py
+!docs/
+!docs/*.md
+!work/
+!work/text/
+!work/text/*.tsv
+!work/text/bt_poc/
+!work/text/bt_poc/*.tsv
