@@ -404,8 +404,8 @@ def patch_xex(img):
     W_AT = 0x82247B08
     assert r32(W_AT) == 0x7D8802A6                          # mflr r12
     cw = CAVE + 0x100
-    code = kr_test(4, 'lead', 'trail', 'orig') + [
-        ('label', 'lead'), ppc.li(3, 4), BLR,
+    code = [ppc.cmplwi(6, 3, 1), ('blt', 'orig'), ppc.cmplwi(6, 3, 2), ('bgt', 'orig')] + kr_test(4, 'lead', 'trail', 'orig') + [   # 한글은 1·2번 글꼴만(0번 = 영문 저작권 글꼴 — 하스피 «저작권문구도 당겨졌다»)
+        ('label', 'lead'), ppc.li(3, 8), BLR,       # 4 면 숫자→한글이 겹침(그림은 후행 자리) — 8 = 앞 영문과 딱 붙음
         ('label', 'trail'), ppc.cmplwi(6, 3, 2), ('beq', 'f2'), ppc.li(3, KR_W), BLR,
         ('label', 'f2'), ppc.li(3, KR_W2), BLR,
         ('label', 'orig'), 0x7D8802A6, ('b', W_AT + 4)]
@@ -417,7 +417,8 @@ def patch_xex(img):
     S_AT, S_RET = 0x82235F24, 0x82235F30
     assert r32(S_AT) == 0x7F23CB78                          # mr r3,r25
     cs = CAVE + 0x180
-    code = [lbz(0, -1, 29)] + kr_test(0, 'zero', 'zero', 'dflt') + [
+    code = [lbz(11, 6, 31), ppc.cmplwi(6, 11, 1), ('blt', 'dflt'), ppc.cmplwi(6, 11, 2), ('bgt', 'dflt'),   # r31+6 = 글꼴
+            lbz(0, -1, 29)] + kr_test(0, 'zero', 'zero', 'dflt') + [
         ('label', 'zero'), ppc.li(3, 0), ('b', S_RET),
         ('label', 'dflt'), 0x7F23CB78, ('b', S_RET)]
     for i, w in enumerate(ppc.assemble(code, cs)):
@@ -680,7 +681,7 @@ def main():
                 errors.append('%04X:%d:%d 360 에 같은 영어 없음 — N64 «%s»' % (a, s, i, src_en))
         return m
 
-    def lines_for(a, key, raw, m):
+    def lines_for(a, key, raw, m, ac=False):
         en = en_text(raw)
         t = None if a in CREDITS else m.get(key)
         if a not in CREDITS and (a,) + key in xkr:
@@ -698,14 +699,21 @@ def main():
             if a not in CREDITS:
                 left.append('%04X:%d:%d	%s' % (a, key[0], key[1], en))
             text = en_fallback(raw)
+        if ac:      # 글자 연출 목록(오프닝 등): 영어 «KAZOOIE .» 꼴의 부호 앞 공백이 한 칸 넓게 벌어짐 → 지움
+            text = re.sub(r' +(?=[.,!?]|\{0A\}|$)', '', text)
         try:
             return [encode(l, cmap) for l in wrap(text)]
         except (ValueError, KeyError) as e:
             errors.append('%04X:%d:%d %s' % (a, key[0], key[1], e))
             return [encode('', cmap)]
 
+    xkr_assets = {k[0] for k in xkr}   # 번역이 하나라도 있으면 AD 6A 를 붙여 한글로(360 전용 대사 등)
+    kept = []      # 일본어 칸이 원래 영어(AD 6A 없음 = 영문 글꼴로 그림 — 크레딧·돌비 고지 등)면 손대지 않음(하스피 «밑에 문구는 왜 깨진걸까»)
     for a in sorted(dialogs):
         langs, tail = X.parse_dialog(db.asset(a))
+        jtx = [r for sec in langs[X.LANG_JP][0] for g, c, sp, r in sec if is_text(c) and r.rstrip(b'\0')]
+        if jtx and not any(r[:2] == b'\xad\x6a' for r in jtx) and (a in CREDITS or (a not in by_asset and a not in xkr_assets)):
+            kept.append(a); continue
         en_secs = langs[X.LANG_EN][0]
         m = align(a, [[en_text(raw) if is_text(cmd) else None for g, cmd, spk, raw in sec] for sec in en_secs])
         jp = []
@@ -721,6 +729,9 @@ def main():
         db.put(a, X.build_dialog(langs, tail))
     for a in sorted(lists):
         L = parse_list(db.asset(a))
+        jtx = [r for c, r in L[X.LANG_JP][0] if c >= 0x80 and r.rstrip(b'\0')]
+        if jtx and not any(r[:2] == b'\xad\x6a' for r in jtx) and (a in CREDITS or (a not in by_asset and a not in xkr_assets)):
+            kept.append(a); continue
         m = align(a, [[en_text(raw) if c >= 0x80 else None for c, raw in L[X.LANG_EN][0]]])
         # 일본어가 항목 안에서 0xAC 로 줄을 바꾸는 목록(지역 이름·게임 선택·파일 상태 25개)은 항목을 나누지 않는다
         # (나누면 첫 항목만 나옴 — 하스피 «게임을 에서 더 안나옴») → 줄 = 0xAC, 영어 {0A}(0x0A) 도 0xAC
@@ -728,7 +739,7 @@ def main():
         e = []
         for i, (c, raw) in enumerate(L[X.LANG_EN][0]):
             if raw.rstrip(b'\0') and c >= 0x80:
-                ls = lines_for(a, (0, i), raw, m)
+                ls = lines_for(a, (0, i), raw, m, ac)
                 if ac:
                     e.append((c, b'\xad\x6a' + bytes([UI_NL]).join(l[2:-1] for l in ls).replace(b'\x0a', bytes([UI_NL])) + b'\0'))
                 else:
@@ -739,6 +750,7 @@ def main():
         db.put(a, build_list(L))
     print('줄: 번역 %(번역)d (자리 옮김 %(자리 옮김)d · 360 전용 %(360 전용)d · 같은 영어 %(같은 영어)d) · 영어 그대로 %(영어 그대로)d' % stat)
     print('크레딧 밖 영어 그대로 %d줄' % len(left), left[:10])
+    print('일본어 칸이 원래 영어라 그대로 둔 에셋 %d' % len(kept))
     xmiss = sorted(set(xkr) - xhit)
     if xmiss:
         errors += ['%04X:%d:%d x360_kr 줄이 안 쓰임(360 에 그 자리 없음)' % k for k in xmiss]
