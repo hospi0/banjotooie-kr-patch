@@ -5,7 +5,7 @@ N64 `Banjo-Tooie (USA).z64` 한글 패치.
 ## 내려받기
 
 - 최신 **v0.9** — 릴리즈의 `BanjoTooie_KR_v0.9.zip`(xdelta + 패치적용.bat + readme)
-- 원본 MD5 `40E98FAA24AC3EBE1D25CB5E5DDF49E4` → 패치 MD5 `E82085394F42BD0217BEE2328861748B` (64MB)
+- 원본 MD5 `40E98FAA24AC3EBE1D25CB5E5DDF49E4` → 패치 MD5 `A4F08294D7F6F1717A2C78BFA8BDD456` (64MB)
 - **확장팩(메모리 8MB) 필수.**
 
 ## 작업 저장소

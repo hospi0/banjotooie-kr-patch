@@ -1147,6 +1147,7 @@
 18BB:0:22	05476	SNOOZE PACK	수면 팩	스누즈 팩	기술 이름 통일(SNOOZE PACK=스누즈 팩)
 18BB:0:23	05477	LEG SPRING	다리 스프링	레그 스프링	기술 이름 통일(LEG SPRING=레그 스프링)
 18BB:0:24	05478	SACK PACK	자루 팩	색 팩	기술 이름 통일(SACK PACK=색 팩)
+18BC:0:0	05479	TWO YEARS HAVE{0A}PASSED SINCE{0A}GRUNTILDA THE WITCH{0A}WAS DEFEATED{0A}BY BANJO AND{0A}KAZOOIE .	반조와{0A}카주이가{0A}그런틸다 마녀를{0A}쓰러뜨린 지{0A}벌써{0A}２년이 지났다 .	반조와{0A}카주이가{0A}마녀 그런틸다를{0A}쓰러뜨린 지{0A}벌써{0A}２년이 지났다 .	하스피 «그런틸다 마녀가 아니라 마녀 그런틸다를»(2026-10-07)
 18BD:0:2	05484	SUMMON{0A}#GOLDEN GOLIATH	소환{0A}#황금 거인	소환{0A}#황금 골리앗	이름 통일(GOLDEN GOLIATH=황금 골리앗)
 18BD:0:3	05485	POWER{0A}#STAR SPINNER	파워{0A}#별 회전기	파워{0A}#스타 스피너	이름 통일(STAR SPINNER=스타 스피너)
 18BD:0:4	05486	POWER{0A}#DODGEM DOME	파워{0A}#도지 돔	파워{0A}#범퍼카 돔	이름 통일(DODGEM=범퍼카)

@@ -1,0 +1,513 @@
+번호	원문	번역
+0,109	PLAY GAME	게임 시작
+1	LEADERBOARDS	순위표
+2	ACHIEVEMENTS	도전 과제
+3	HELP & OPTIONS	도움말 & 설정
+4,111	UNLOCK FULL GAME	정식판 구매
+5,112	RETURN TO GAME LIBRARY	게임 라이브러리로 돌아가기
+6	HOW TO PLAY	플레이 방법
+7	CONTROLS	조작법
+8	SETTINGS	설정
+10	MUSIC VOLUME	음악 음량
+11	SOUND EFFECTS VOLUME	효과음 음량
+12	RESTORE DEFAULT SETTINGS	기본 설정으로 되돌리기
+13,146	GAME TOTAL	게임 합계
+14,56	RANK	순위
+15,59	JIGGIES	지기
+16,58	NOTES	음표
+17,60	TIME	시간
+18,57	GAMERTAG	게이머태그
+19	SCORE	점수
+21	CONTROL METHOD	조작 방식
+22	RESUME GAME	게임 계속
+24	No free space	여유 공간 없음
+25	Your selected device doesn't have enough free space to create a game save	선택한 저장 장치에 게임 저장 데이터를 만들 공간이 부족합니다
+26	Select again	다시 선택
+27,166	Play without saving	저장하지 않고 플레이
+28,174	Trial Game	체험판
+29	This is the Tooie trial game. Further play requires you to unlock the full game. Go on. You know you want to.	반조-투이 체험판입니다. 계속 플레이하려면 정식판을 구매해야 합니다. 어서요. 하고 싶잖아요.
+30,176	Unlock full game	정식판 구매
+31	Exit to the main menu	메인 메뉴로 나가기
+32,215	TRIAL GAME	체험판
+33	THIS IS THE TOOIE TRIAL GAME. THE SAVE FACILITY HAS BEEN DISABLED, AND YOU CAN ONLY PLAY FOR 20 MINUTES IN THE FIRST WORLD. WHY NOT TAKE THE PLUNGE AND UNLOCK THE FULL GAME? IT HAS JIGGIES BY THE BUCKETLOAD AND MASSES OF OTHER STUFF TO SINK YOUR TEETH INTO.	반조-투이 체험판입니다. 저장 기능이 꺼져 있으며 첫 번째 월드에서 20분만 플레이할 수 있습니다. 과감하게 정식판을 구매해 보는 건 어떨까요? 지기가 한가득, 즐길 거리도 산더미처럼 기다리고 있습니다.
+34	BASIC MOVES	기본 기술
+35	SPECIAL MOVES	특수 기술
+36	MULTIPLAYER HINTS	멀티플레이 힌트
+37	MINI-GAMES HINTS	미니게임 힌트
+38	HIGH / BACKFLIP JUMP\nHOLD EITHER {88} OR {81}, AND THEN PRESS {87}.\n\nBEAK BARGE ATTACK\nHOLD EITHER {88} OR {81}, AND THEN PRESS {86} TO USE THE BEAK BARGE.\n\nBEAK BUSTER ATTACK\nPRESS {87} TO JUMP, THEN PRESS EITHER {88} OR {81} TO DO THE BEAK BUSTER.\n\nRAT-A-TAP-RAP\nJUMP AND PRESS {86} FOR YOUR JUMPING PECK MOVE.\n\nROLL ATTACK\nRUN AND PRESS {86} TO USE THE ROLLING ATTACK.\n\nPECK ATTACK\nSIMPLY PRESS {86} WHEN STANDING STILL OR MOVING SLOWLY.\n\nSWIM\nUSE THE LEFT STICK TO SWIM ON THE SURFACE. TO SWIM UNDERWATER, PRESS {86} TO DIVE. WHILE UNDERWATER, BANJO CAN PRESS {87} TO KICK HIS LEGS AND THE WINGED WONDER CAN PRESS {86} TO USE HER WINGS.\n\nEGG FIRING\nHOLD EITHER {88} OR {81}, THEN PRESS {84} TO SHOOT AN EGG OUT OF YOUR MOUTH. PRESS {85} INSTEAD AND YOU CAN SHOOT THEM OUT FROM BEHIND.\n\nBEAK BOMB ATTACK\nWHILE FLYING, PRESS {86} TO PERFORM AN AERIAL ATTACK.\n\nTALON TROT\nPRESS  {88} AND {81} THEN CONTINUE TO HOLD {88} OR {81} WHILE MOVING KAZOOIE AROUND WITH THE LEFT STICK.\n\nWONDER WING INVULNERABILITY\nHOLD {88} OR {81} AND PRESS RIGHT STICK RIGHT. KEEP {88} OR {81} HELD AND USE THE LEFT STICK TO MOVE AROUND. USE IT WISELY THOUGH, AS THIS MOVE REQUIRES GOLD FEATHERS.	하이 점프 / 백플립 점프\n{88}이나 {81}을 누른 채 {87}을 누릅니다.\n\n부리 돌진 공격\n{88}이나 {81}을 누른 채 {86}을 누르면 부리 돌진을 합니다.\n\n부리 박치기 공격\n{87}으로 점프한 뒤 {88}이나 {81}을 누르면 부리 박치기를 합니다.\n\n랫-어-탭 랩\n점프한 뒤 {86}을 누르면 점프 쪼기를 합니다.\n\n구르기 공격\n달리면서 {86}을 누르면 구르기 공격을 합니다.\n\n쪼기 공격\n서 있거나 천천히 움직일 때 {86}을 누르기만 하면 됩니다.\n\n수영\n왼쪽 스틱으로 물 위를 헤엄칩니다. 물속으로 들어가려면 {86}을 눌러 잠수합니다. 물속에서 반조는 {87}로 발을 차고, 날개 달린 카주이는 {86}으로 날개를 씁니다.\n\n알 쏘기\n{88}이나 {81}을 누른 채 {84}를 누르면 입에서 알을 쏩니다. 대신 {85}를 누르면 뒤로 쏩니다.\n\n부리 폭탄 공격\n날고 있을 때 {86}을 누르면 공중 공격을 합니다.\n\n탤런 트롯\n{88}과 {81}을 누른 다음 {88}이나 {81}을 계속 누른 채 왼쪽 스틱으로 카주이를 움직입니다.\n\n원더윙 무적\n{88}이나 {81}을 누른 채 오른쪽 스틱을 오른쪽으로. {88}이나 {81}을 계속 누른 채 왼쪽 스틱으로 움직입니다. 이 기술은 황금 깃털이 드니 아껴 쓰세요.
+39	HOMING EGGS ABILITY\nAUTOMATICALLY APPLIED TO ALL EGG FIRING ACTION ONCE OBTAINED.\n\n	유도 알 능력\n얻으면 모든 알 쏘기에 자동으로 적용됩니다.\n\n
+40	BABY CLOCKWORK KAZOOIE BOMB.\nTAP {89} OR {80} TO SWITCH TO CLOCKWORK EGGS AND THEN LAUNCH THE EGG AS USUAL. ONCE LAUNCHED, USE THE LEFT STICK TO MOVE, AND PRESS {86} TO DETONATE. THE BABY KAZOOIE BOMB CAN ENTER SMALL SPACES, AND ALSO COLLECT THINGS FOR YOU.\n\n	아기 태엽 카주이 폭탄\n{89}이나 {80}을 눌러 태엽 알로 바꾼 뒤 평소처럼 알을 쏩니다. 쏜 뒤에는 왼쪽 스틱으로 움직이고 {86}으로 터뜨립니다. 아기 카주이 폭탄은 좁은 곳에도 들어갈 수 있고 물건도 대신 주워 옵니다.\n\n
+41	BREEGULL BASH\nDOUBLE TAP {86} TO DO THIS SPECIAL KAZOOIE ATTACK.\n\n	브리걸 배시\n{86}을 두 번 누르면 카주이의 특수 공격을 합니다.\n\n
+42	EGGS\nTAP {80} OR {89} TO CYCLE THROUGH THE DIFFERENT EGGS!\n\nFIRE EGGS, 45 NOTES\n\nGRENADE EGGS, 100 NOTES\nDEVASTATING EXPLODING EGGS.\n\nICE EGGS, 200 NOTES\nFREEZING EFFECT\n\nCLOCKWORK-KAZOOIE EGGS, 315 NOTES\nLIKE GRENADE EGGS BUT WITH REMOTE DETONATING BIRD AFTER-TOUCH, BY PRESSING {86}.	알\n{80}이나 {89}를 눌러 여러 가지 알을 바꿉니다!\n\n불꽃 알, 음표 45개\n\n수류탄 알, 음표 100개\n강력하게 터지는 알.\n\n얼음 알, 음표 200개\n얼려 버리는 효과\n\n태엽 카주이 알, 음표 315개\n수류탄 알과 비슷하지만 {86}을 눌러 원격으로 터뜨리는 새를 조종할 수 있습니다.
+43	EGG AIM, 25 NOTES\nPRESS {84} AND THEN {88} OR {81} TO AIM AND FIRE MORE ACCURATELY.\n\nBREEGULL BLASTER, 30 NOTES\nUSES KAZOOIE AS A GUN. WILL AUTOMATICALLY SWITCH TO THIS MODE IN CERTAIN AREAS.\n\nGRIP GRAB, 35 NOTES\nTHIS ALLOWS YOU TO AUTOMATICALLY GRAB EDGES USING THE LEFT STICK TO MOVE ALONG THEM. PRESS {86} AND LEFT OR RIGHT TO ATTACK.	알 조준, 음표 25개\n{84}를 누른 뒤 {88}이나 {81}로 조준해 더 정확하게 쏩니다.\n\n브리걸 블래스터, 음표 30개\n카주이를 총처럼 씁니다. 특정 구역에서는 자동으로 이 모드가 됩니다.\n\n그립 그랩, 음표 35개\n모서리를 자동으로 붙잡고 왼쪽 스틱으로 따라 움직일 수 있습니다. {86}과 왼쪽이나 오른쪽을 누르면 공격합니다.
+44	BILL DRILL, 85 NOTES\nTHIS ALLOWS YOU TO DESTROY STRONGER OBJECTS THAN THE BEAK BUSTER CAN. USE {87} TO JUMP AND THEN PRESS AND HOLD {88} OR {81}.\n\nBEAK BAYONET, 95 NOTES\nCLOSE RANGE ATTACK WHEN IN BREEGULL BLASTER MODE (1ST PERSON). PRESS {86} TO SMASH ENEMIES WITH KAZOOIE'S BEAK.	빌 드릴, 음표 85개\n부리 박치기로는 못 부수는 더 단단한 물체를 부술 수 있습니다. {87}로 점프한 뒤 {88}이나 {81}을 길게 누릅니다.\n\n부리 총검, 음표 95개\n브리걸 블래스터 모드(1인칭)에서 쓰는 근접 공격. {86}을 누르면 카주이의 부리로 적을 내리칩니다.
+45	PACK WHACK, 120 NOTES\nYOU CAN USE BANJO{92}S EMPTY PACK AS AN ATTACK, WHEN HE IS ON HIS OWN, BY PRESSING {86}.\n\nSPLIT UP, 160 NOTES\nSTAND ON A PAD WITH AN IMAGE OF BANJO AND KAZOOIE ON IT, AND PRESS {85} TO SEPARATE THEM.\n\nAIRBORNE EGG AIMING, 180 NOTES\nPRESS {84} TO ENTER BANJO'S EYES VIEW AND THEN PRESS {88} OR {81} TO FIRE EGGS WHILE FLYING.	팩 왝, 음표 120개\n반조 혼자일 때 {86}을 누르면 빈 배낭으로 공격할 수 있습니다.\n\n분리, 음표 160개\n반조와 카주이 그림이 있는 패드 위에 서서 {85}를 누르면 둘이 따로 움직입니다.\n\n공중 알 조준, 음표 180개\n{84}를 눌러 반조의 눈 시점으로 바꾼 뒤 {88}이나 {81}을 누르면 날면서 알을 쏩니다.
+46	WING WHACK, 265 NOTES\nAS KAZOOIE, DEFEND YOURSELF WITH YOUR WINGS BY PRESSING {86}.\n\nSUB-AQUA EGG AIMING, 275 NOTES\nPRESS {84} TO ENTER BANJO'S EYES VIEW AND THEN PRESS {88} OR {81} TO FIRE EGGS.\n\nTALON TORPEDO, 290 NOTES\nWHEN UNDERWATER, PRESS {88} OR {81} TO FIRE KAZOOIE AS A TORPEDO. PRESS {87} TO SPEED HER UP, OR {86} TO RETURN HER TO BANJO.	윙 왝, 음표 265개\n카주이일 때 {86}을 누르면 날개로 몸을 지킵니다.\n\n수중 알 조준, 음표 275개\n{84}를 눌러 반조의 눈 시점으로 바꾼 뒤 {88}이나 {81}을 누르면 알을 쏩니다.\n\n탤런 토피도, 음표 290개\n물속에서 {88}이나 {81}을 누르면 카주이를 어뢰처럼 쏩니다. {87}로 빨라지고 {86}으로 반조에게 돌아옵니다.
+47	SPRINGY STEP SHOES, 390 NOTES\nJUMP GREAT HEIGHTS BY PRESSING {87}. CAN BE USED BY BANJO WITH KAZOOIE OR KAZOOIE ALONE.\n\nTAXI PACK, 405 NOTES\nBANJO CAN CARRY LARGER OBJECTS AND CHARACTERS AROUND BY HOLDING {88} OR {81} AND PUSHING THE RIGHT STICK LEFT.\n\nHATCH, 420 NOTES\nTHE HATCH ALLOWS KAZOOIE TO HATCH EGGS BY HOLDING {88} OR {81} AND PRESSING {86}.	스프링 스텝 슈즈, 음표 390개\n{87}을 누르면 아주 높이 뜁니다. 카주이를 데린 반조도, 카주이 혼자서도 쓸 수 있습니다.\n\n택시 팩, 음표 405개\n{88}이나 {81}을 누른 채 오른쪽 스틱을 왼쪽으로 밀면 반조가 큰 물건이나 캐릭터를 실어 나를 수 있습니다.\n\n부화, 음표 420개\n{88}이나 {81}을 누른 채 {86}을 누르면 카주이가 알을 부화시킵니다.
+48	CLAW CLAMBER BOOTS, 505 NOTES\nTHE CLAW CLAMBER BOOTS ALLOW YOU TO SCALE VERTICAL WALLS WHICH HAVE KAZOOIE{92}S FOOTPRINTS ON THEM.\n\nSNOOZE PACK, 525 NOTES\nFEELING LOW? THE SNOOZE PACK ALLOWS BANJO TO TAKE A NAP IN HIS BACKPACK TO RECOVER HIS ENERGY. JUST HOLD {88} OR {81} AND PRESS RIGHT ON THE RIGHT STICK.\n\nLEG SPRING, 545 NOTES\nTHIS ALLOWS KAZOOIE TO PERFORM A HIGH JUMP ON HER OWN, BY HOLDING {88} OR {81} AND PRESSING {87}.	클로 클램버 부츠, 음표 505개\n카주이 발자국이 찍힌 벽을 똑바로 타고 오를 수 있습니다.\n\n스누즈 팩, 음표 525개\n기운이 없나요? 스누즈 팩을 쓰면 반조가 배낭 안에서 낮잠을 자며 체력을 회복합니다. {88}이나 {81}을 누른 채 오른쪽 스틱을 오른쪽으로 밀면 됩니다.\n\n레그 스프링, 음표 545개\n{88}이나 {81}을 누른 채 {87}을 누르면 카주이가 혼자서도 높이 점프합니다.
+49	SHACK PACK, 640 NOTES\nTHIS ALLOWS BANJO TO ENTER SMALL HOLES BY HOLDING {88} OR {81} AND PRESSING DOWN ON THE RIGHT STICK.\n\nGLIDE, 660 NOTES\nKAZOOIE CAN GLIDE THROUGH THE AIR WITHOUT THE NEED FOR FLY PADS OR RED FEATHERS. GREAT IF COMBINED WITH LEG SPRING MOVE. PRESS {88} OR {81} WHILE IN THE AIR.	섁 팩, 음표 640개\n{88}이나 {81}을 누른 채 오른쪽 스틱을 아래로 밀면 반조가 좁은 구멍에 들어갈 수 있습니다.\n\n활공, 음표 660개\n플라이 패드나 빨간 깃털 없이도 카주이가 하늘을 활공합니다. 레그 스프링과 함께 쓰면 좋습니다. 공중에서 {88}이나 {81}을 누릅니다.
+50	SACK PACK, 765 NOTES\nTHIS BANJO ONLY MOVE HELPS PREVENT HIM GETTING INJURED BY THINGS ON THE GROUND. HOLD {88} OR {81} AND UP ON THE RIGHT STICK.	색 팩, 음표 765개\n반조 전용 기술로 바닥에 있는 것들에 다치지 않게 해 줍니다. {88}이나 {81}을 누른 채 오른쪽 스틱을 위로 밉니다.
+51	MAYAN KICKBALL\nQUARTER-FINAL: \nKICK THE BALLS INTO YOUR GOAL TO SCORE 2 POINTS. \n\nSEMI-FINAL: \nRED BALLS REDUCE YOUR SCORE BY ONE. TRY KICKING THEM IN YOUR OPPONENTS' GOALS! \n\nFINAL: \nKICK THE BOMBS AT YOUR OPPONENTS TO STUN THEM. THE PLAYER WITH THE MOST POINTS IN THEIR GOAL AT THE END OF THE TIMER WINS THE MATCH.\n\nORDNANCE STORAGE\nDEFUSE THE DYNAMITE WITH THE BEAK BAYONET TO WIN!\n\nDODGEMS CHALLENGE\nBLUE TWINKLES ARE WORTH 3 POINTS, GREEN TWINKLES 2 POINTS AND RED TWINKLES ARE WORTH 1 POINT. HIGHEST SCORE WINS!\n\nHOOP HURRY\nJUMP THROUGH AS MANY HOOPS AS POSSIBLE TO SCORE BIG. BLUE HOOPS AWARD 3 POINTS, GREEN 2 POINTS AND A RED HOOP GIVES YOU 1 POINT.\n\nBALLOON BURST\nFLY AROUND THE ROOM AND SHOOT EGGS AT THE BALLOONS. BLUE BALLOONS ARE WORTH 3 POINTS, GREEN BALLOONS ARE WORTH 2 POINTS AND RED BALLOONS ARE WORTH 1 POINT.\n\nSAUCER OF PERIL RIDE\nBLUE TARGETS ARE WORTH 3 POINTS, GREEN TARGETS 2 POINTS AND RED TARGETS ARE WORTH 1 POINT.\n\nMINI-SUB CHALLENGE\nBLUE MINES ARE WORTH 3 POINTS, GREEN MINES 2 POINTS AND RED MINES ARE WORTH 1 POINT. SHOOT AS MANY MINES IN THE TIME LIMIT!\n\nCHOMPA{92}S BELLY\nBLUE GERMS ARE WORTH 3 POINTS, GREEN GERMS 2 POINTS AND RED GERMS ARE WORTH 1 POINT.\n\nCOLOSSEUM KICKBALL\nTHE LEAST POINTS WINS THE GAME! SHOOT THE GOOD BALLS INTO YOUR OWN GOAL! YELLOW BALLS INCREASE, RED BALLS DECREASE YOUR SCORE. FLASHING BALLS DOUBLE THE SCORING EFFECT. BOMBS ARE STUNNING.\n\nPOT O{92} GOLD\nSHOOT AS MANY JIGGIES AS FAST AS YOU CAN!\n\nTRASH CAN GERMS\nDESTROY THE GERMS TO GET POINTS AS QUICK AS POSSIBLE. BLUE GERMS ARE WORTH 3 POINTS, GREEN GERMS ARE 2 POINTS AND RED GERMS ARE 1 POINT.\n\nZUBBAS{92} HIVE\nSHOOT THE ZUBBAS THAT APPEAR FROM THE WALLS. BLUE ZUBBAS ARE WORTH 3 POINTS, GREEN ZUBBAS ARE 2 POINTS AND RED ZUBBAS ARE 1 POINT.\n\nTOWER OF TRAGEDY\nBUZZ IN AND TEST YOUR KNOWLEDGE OF THE GAME!	마야 킥볼\n준준결승:\n공을 자기 골대에 차 넣으면 2점.\n\n준결승:\n빨간 공은 점수를 1점 깎습니다. 상대 골대에 차 넣어 보세요!\n\n결승:\n폭탄을 상대에게 차서 기절시키세요. 시간이 끝났을 때 자기 골대 점수가 가장 높은 플레이어가 승리합니다.\n\n탄약 창고\n부리 총검으로 다이너마이트를 해체하면 승리!\n\n범퍼카 챌린지\n파란 반짝이는 3점, 초록 반짝이는 2점, 빨간 반짝이는 1점. 최고 점수가 승리!\n\n후프 질주\n후프를 최대한 많이 통과해 큰 점수를 노리세요. 파란 후프는 3점, 초록은 2점, 빨간 후프는 1점입니다.\n\n풍선 터뜨리기\n방 안을 날아다니며 풍선에 알을 쏘세요. 파란 풍선은 3점, 초록 풍선은 2점, 빨간 풍선은 1점입니다.\n\n공포의 비행접시 놀이기구\n파란 표적은 3점, 초록 표적은 2점, 빨간 표적은 1점입니다.\n\n미니잠수함 챌린지\n파란 기뢰는 3점, 초록 기뢰는 2점, 빨간 기뢰는 1점. 제한 시간 안에 기뢰를 최대한 많이 쏘세요!\n\n촘파의 배 속\n파란 세균은 3점, 초록 세균은 2점, 빨간 세균은 1점입니다.\n\n콜로세움 킥볼\n점수가 가장 낮은 쪽이 승리! 좋은 공을 자기 골대에 넣으세요! 노란 공은 점수를 올리고 빨간 공은 내립니다. 깜빡이는 공은 효과가 두 배. 폭탄은 기절시킵니다.\n\n황금 항아리\n지기를 최대한 빨리 많이 쏘세요!\n\n쓰레기통 세균\n세균을 최대한 빨리 없애 점수를 얻으세요. 파란 세균은 3점, 초록 세균은 2점, 빨간 세균은 1점입니다.\n\n주바의 벌집\n벽에서 나오는 주바를 쏘세요. 파란 주바는 3점, 초록 주바는 2점, 빨간 주바는 1점입니다.\n\n비극의 탑\n버저를 누르고 게임 지식을 시험하세요!
+52	DEATHMATCH HINTS\nPLAYER WITH THE MOST POINTS WINS AND REMEMBER GRENADE, CLOCKWORK AND PROXIMITY EGGS DO THE MOST DAMAGE!\n\nMAYAN KICKBALL CHALLENGE\nKICK THE BALLS INTO YOUR GOAL TO SCORE 2 POINTS. RED BALLS REDUCE YOUR SCORE BY ONE. KICK THE BOMBS AT YOUR OPPONENTS TO STUN THEM. THE PLAYER WITH THE MOST POINTS IN THEIR GOAL AT THE END OF THE TIMER WINS THE MATCH.\n\nDODGEMS CHALLENGE\nBLUE TWINKLES ARE WORTH 3 POINTS, GREEN TWINKLES 2 POINTS AND RED TWINKLES ARE WORTH 1 POINT. HIGHEST SCORE WINS!\n\nHOOP HURRY CHALLENGE\nJUMP THROUGH AS MANY HOOPS AS POSSIBLE TO SCORE BIG. BLUE HOOPS AWARD 3 POINTS, GREEN 2 POINTS AND A RED HOOP GIVES YOU 1 POINT.\n\nBALLOON BURST CHALLENGE\nFLY AROUND THE ROOM AND SHOOT EGGS AT THE BALLOONS. BLUE BALLOONS ARE WORTH 3 POINTS, GREEN BALLOONS ARE WORTH 2 POINTS AND RED BALLOONS ARE WORTH 1 POINT.\n\nMINI-SUB SHOOTOUT\nGET CLOSE TO YOUR OPPONENT TO MAKE YOUR TORPEDOES HOME IN! HIGHEST SCORE WINS!\n\nCHOMPA{92}S BELLY CHALLENGE\nSHOOT DOWN AS MANY GERMS AS YOU CAN! BLUE GERMS ARE WORTH 3 POINTS, GREEN GERMS 2 POINTS AND RED GERMS ARE WORTH 1 POINT.\n\nPACKING ROOM CHALLENGE\nBLUE ARE WORTH 3 POINTS, GREEN ARE WORTH 2 POINTS AND RED 1 POINT. SCORE AS MANY AS YOU CAN!\n\nCOLOSSEUM KICKBALL CHALLENGE\nTHE LEAST POINTS WINS THE GAME! KICK THE YELLOW BALLS INTO YOUR OPPONENTS GOAL AND THE RED BALLS INTO YOUR GOAL!\n\nTRASH CAN CHALLENGE\nDESTROY THE GERMS TO GET POINTS AS QUICK AS POSSIBLE. BLUE GERMS ARE WORTH 3 POINTS, GREEN GERMS ARE 2 POINTS AND RED GERMS ARE 1 POINT. THE PLAYER WITH THE HIGHEST SCORE WINS!\n\nTOWER OF TRAGEDY QUIZ\nBUZZ IN AND TEST YOUR KNOWLEDGE OF THE GAME!	데스매치 힌트\n점수가 가장 많은 플레이어가 승리. 수류탄 알, 태엽 알, 근접 알이 가장 강하다는 걸 잊지 마세요!\n\n마야 킥볼 챌린지\n공을 자기 골대에 차 넣으면 2점. 빨간 공은 점수를 1점 깎습니다. 폭탄을 상대에게 차서 기절시키세요. 시간이 끝났을 때 자기 골대 점수가 가장 높은 플레이어가 승리합니다.\n\n범퍼카 챌린지\n파란 반짝이는 3점, 초록 반짝이는 2점, 빨간 반짝이는 1점. 최고 점수가 승리!\n\n후프 질주 챌린지\n후프를 최대한 많이 통과해 큰 점수를 노리세요. 파란 후프는 3점, 초록은 2점, 빨간 후프는 1점입니다.\n\n풍선 터뜨리기 챌린지\n방 안을 날아다니며 풍선에 알을 쏘세요. 파란 풍선은 3점, 초록 풍선은 2점, 빨간 풍선은 1점입니다.\n\n미니잠수함 사격전\n상대에게 가까이 가면 어뢰가 따라갑니다! 최고 점수가 승리!\n\n촘파의 배 속 챌린지\n세균을 최대한 많이 쏴 떨어뜨리세요! 파란 세균은 3점, 초록 세균은 2점, 빨간 세균은 1점입니다.\n\n포장실 챌린지\n파란색은 3점, 초록색은 2점, 빨간색은 1점. 최대한 많이 넣으세요!\n\n콜로세움 킥볼 챌린지\n점수가 가장 낮은 쪽이 승리! 노란 공은 상대 골대에, 빨간 공은 자기 골대에 차 넣으세요!\n\n쓰레기통 챌린지\n세균을 최대한 빨리 없애 점수를 얻으세요. 파란 세균은 3점, 초록 세균은 2점, 빨간 세균은 1점. 최고 점수가 승리!\n\n비극의 탑 퀴즈\n버저를 누르고 게임 지식을 시험하세요!
+54	NO	아니요
+55,1131	YES	예
+61	EXIT GAME	게임 종료
+62	MOVE	이동
+63	CAMERA CONTROLS	카메라 조작
+66	ATTACK/DIVE	공격/잠수
+68	FOLLOW CAMERA	카메라 따라가기
+69	AIM	조준
+70	OPEN DOOR	문 열기
+71	LUNGE ATTACK	찌르기 공격
+72	FIRE	발사
+73	CYCLE AMMO	탄약 바꾸기
+74	LOOK UP	위 보기
+75	LOOK DOWN	아래 보기
+76	STRAFE LEFT	왼쪽 옆걸음
+77	STRAFE RIGHT	오른쪽 옆걸음
+78	AIM/CYCLE AMMO	조준/탄약 바꾸기
+79	CHARGE ATTACK	돌진 공격
+80	SHOOT	쏘기
+81	ROTATE SUB	잠수함 회전
+82	PROPEL SUB	잠수함 전진
+83	CHANGE CAMERA	카메라 바꾸기
+84	FIRST PERSON	1인칭
+86	JUMP/RISE	점프/상승
+87	SPEED UP	가속
+88	SCROLL THROUGH ANSWERS	답 고르기
+89	BUZZ IN	버저
+90	ANSWER	답하기
+91	SINGLE PLAYER	1인 플레이
+92	DEATHMATCH MODERN	데스매치 모던
+93	DEATHMATCH CLASSIC	데스매치 클래식
+95	DODGEMS	범퍼카
+96	HOOP HURRY	후프 질주
+100	ZUBBA'S NEST	주바의 둥지
+102	SELECT	선택
+103,169	BACK	뒤로
+104	LOWER VOLUME	음량 낮추기
+105	RAISE VOLUME	음량 높이기
+106	SCROLL UP	위로 넘기기
+107	SCROLL DOWN	아래로 넘기기
+108	PRESS START TO PLAY	START를 눌러 시작
+110,113	ERASE SAVE	저장 데이터 지우기
+114	CANCEL	취소
+115	ACCEPT TRAINING	훈련 받기
+116	DECLINE TRAINING	훈련 거절
+117	FRIENDS	친구
+118	MY SCORE	내 점수
+119	OVERALL	전체
+120	NO ONE IS RANKED ON THIS LEADERBOARD YET.	아직 이 순위표에 오른 사람이 없습니다.
+121	YOUR FRIENDS ARE NOT YET RANKED ON THIS LEADERBOARD	아직 이 순위표에 오른 친구가 없습니다
+122	YOU ARE NOT YET RANKED ON THIS LEADERBOARD	아직 이 순위표에 오르지 않았습니다
+123	PLEASE WAIT	잠시 기다려 주세요
+124	TOTAL NUMBER OF PLAYERS	전체 플레이어 수
+125	PREVIOUS	이전
+126	NEXT	다음
+127	RETRY	다시 시도
+128	CONTINUE OFFLINE	오프라인으로 계속
+129	SAVING...	저장 중...
+130	CHEAT ENABLED - SAVING AND LEADERBOARD UPDATES DISABLED	치트 사용 중 - 저장과 순위표 갱신이 꺼집니다
+132	SAVING FAILED	저장 실패
+133	CARRY ON PLAYING	계속 플레이
+134	GIVE UP AND QUIT	포기하고 끝내기
+135	LOADING GAME...	게임 불러오는 중...
+136	ERROR LOADING LEADERBOARDS	순위표 불러오기 오류
+137	SAVING CONTENT. PLEASE DON'T TURN OFF YOUR CONSOLE.	저장 중입니다. 본체 전원을 끄지 마세요.
+138	CHANGE STORAGE DEVICE	저장 장치 바꾸기
+139	PERSONAL BEST TIME!	개인 최고 기록!
+140	INTERACT	상호작용
+141	SKIP	건너뛰기
+150	WITCHY WORLD	마녀랜드
+157	STOP 'N' SWOP	스톱 앤 스왑
+158	BOSS TOTAL	보스 합계
+159	PERSONAL BEST	개인 최고 기록
+160	Guest Gamer Profile	게스트 게이머 프로필
+161	Guest gamer profile cannot access this feature. Please use a different gamer profile.	게스트 게이머 프로필로는 이 기능을 쓸 수 없습니다. 다른 게이머 프로필을 사용하세요.
+162,192,342	OK	확인
+163	Corrupt Save	저장 데이터 손상
+164	Your save data appears to be corrupt.  Create a new save and overwrite the corrupt one?	저장 데이터가 손상된 것 같습니다. 새 저장 데이터를 만들어 손상된 데이터를 덮어쓸까요?
+165	Create a new save	새 저장 데이터 만들기
+167	THIS FEATURE REQUIRES A GAMER PROFILE WHICH IS SIGNED INTO XBOX LIVE	이 기능은 Xbox LIVE에 로그인한 게이머 프로필이 필요합니다
+168	CHANGE GAMER PROFILE	게이머 프로필 바꾸기
+170	Gamer profile not online	게이머 프로필 오프라인
+171	This game has some features which require an Xbox LIVE enabled gamer profile, but you are currently offline.	이 게임에는 Xbox LIVE 게이머 프로필이 필요한 기능이 있지만 지금은 오프라인 상태입니다.
+172	Connect to Xbox LIVE	Xbox LIVE에 연결
+173	Continue playing offline	오프라인으로 계속 플레이
+175	Nice work! This achievement can only be awarded in the Banjo-Tooie full game, which makes this an excellent time to splash the cash and unlock the full game in order to receive it. Don't you agree?	잘했어요! 이 도전 과제는 반조-투이 정식판에서만 받을 수 있습니다. 지금이야말로 통 크게 정식판을 구매해서 받을 절호의 기회예요. 그렇죠?
+177,220	Continue with the trial	체험판 계속하기
+178	GAMER PROFILE OFFLINE	게이머 프로필 오프라인
+179	YOUR GAMER PROFILE IS CURRENTLY OFFLINE.  TO SEND YOUR SCORE TO THE ONLINE LEADERBOARD, PRESS THE XBOX GUIDE BUTTON AND CONNECT TO XBOX LIVE.	게이머 프로필이 오프라인 상태입니다. 온라인 순위표에 점수를 올리려면 XBOX 가이드 버튼을 눌러 XBOX LIVE에 연결하세요.
+180	Signed out	로그아웃됨
+181	You have been returned to the title screen because your gamer profile was signed out	게이머 프로필이 로그아웃되어 타이틀 화면으로 돌아왔습니다
+182,196	Continue playing	계속 플레이
+183	Loading Error	불러오기 오류
+184	"Banjo-Tooie" has failed to load, and cannot continue.	"반조-투이"를 불러오지 못해 계속할 수 없습니다.
+185	Return to Game Library	게임 라이브러리로 돌아가기
+186	Save failed	저장 실패
+187	Your storage device is unavailable or has an error	저장 장치를 쓸 수 없거나 오류가 있습니다
+188	Select a new device	새 장치 선택
+189,346	Continue without saving	저장하지 않고 계속
+190	Gamer profile missing	게이머 프로필 없음
+191	Your gamer profile is no longer available.  Your achievement will be stored with your game save.	게이머 프로필을 더 이상 쓸 수 없습니다. 도전 과제는 게임 저장 데이터에 함께 저장됩니다.
+193	LOOK AROUND	둘러보기
+194	Disconnected	연결 끊김
+195	You have been returned to the menu because you have been disconnected from Xbox LIVE	Xbox LIVE 연결이 끊어져 메뉴로 돌아왔습니다
+197	Overwrite save?	덮어쓸까요?
+198	That storage device already contains a save.  Is it OK to overwrite it?	이 저장 장치에는 이미 저장 데이터가 있습니다. 덮어써도 될까요?
+199	No - don't overwrite	아니요 - 덮어쓰지 않음
+200	Overwrite and save	덮어쓰고 저장
+201	SAVING OF SETTINGS TO GAMER PROFILE HAS FAILED	게이머 프로필에 설정을 저장하지 못했습니다
+212	POT O'GOLD	황금 항아리
+214	ZUBBA'S HIVE	주바의 벌집
+216	THIS IS ONLY A TRIAL VERSION OF BANJO TOOIE.  PLEASE UNLOCK THE FULL VERSION FOR MORE FUN!	반조-투이 체험판입니다. 더 즐기려면 정식판을 구매하세요!
+217	Option Unavailable	선택 불가
+218	This option is only available in the full game	정식판에서만 쓸 수 있는 메뉴입니다
+219	Unlock Full Game	정식판 구매
+222	YOU'VE EARNED AN ACHIEVEMENT FOR KILLING KLUNGO, BUT YOU'LL NEED TO UNLOCK TO THE FULL VERSION TO GET IT!	클룽고를 쓰러뜨려 도전 과제를 달성했지만 받으려면 정식판을 구매해야 합니다!
+223	Stop 'n' Swop II found	스톱 앤 스왑 II 발견
+224	- Oh no, not again...	- 오, 안 돼, 또야...
+225	- Lucky Loser	- 운 좋은 패자
+226	- Better Than A Slap	- 뺨 맞는 것보단 낫지
+227	- And The Winner Is…	- 그리고 승자는…
+228	- Now Who’s Boss?	- 이제 누가 보스지?
+229	- Calmer Chameleon	- 차분한 카멜레온
+230	- Heroic Failure	- 영웅적인 실패
+231	OH NO, NOT AGAIN...	오, 안 돼, 또야...
+232	LUCKY LOSER	운 좋은 패자
+233	BETTER THAN A SLAP	뺨 맞는 것보단 낫지
+234	AND THE WINNER IS...	그리고 승자는...
+235	NOW WHO'S BOSS?	이제 누가 보스지?
+236	CALMER CHAMELEON	차분한 카멜레온
+237	HEROIC FAILURE	영웅적인 실패
+238	YOUR SCORE BEATS	이긴 상대
+239	CONGRATULATIONS! A PERSONAL BEST!	축하합니다! 개인 최고 기록!
+240	CONGRATULATIONS! YOU HAVE BEATEN	축하합니다! 이긴 상대
+241	MODERN	모던
+242	MODERN - INVERTED	모던 - 반전
+243	CLASSIC	클래식
+244	CLASSIC - INVERTED	클래식 - 반전
+246	JIGGY HINT	지기 힌트
+247	JIGGY TIPS	지기 정보
+248	 DEFEAT TARGITZAN	 타깃잔을 쓰러뜨려라
+250	 WIN THE KICKBALL GAMES	 킥볼 경기에서 이겨라
+251	 KILL THE PLAGUE OF FLIES	 파리 떼를 처치하라
+252	 RECOVER TARGITZAN'S STOLEN GOLD	 도둑맞은 타깃잔의 황금을 되찾아라
+253	 QUICKSAND AREA IN JADE SNAKE GROVE	 비취뱀 숲의 유사 지대
+254	 QUICKSAND AREA IN PRISON COMPOUND	 감옥 구역의 유사 지대
+255	 STONE COLUMNS IN PRISON COMPOUND	 감옥 구역의 돌기둥
+256	 TOP OF TARGITZAN'S TEMPLE	 타깃잔 사원 꼭대기
+257	 SLEEPING JADE SNAKE	 잠자는 비취뱀
+258	 DEFEAT OLD KING COAL	 올드 킹 콜을 쓰러뜨려라
+259	 CANARY MARY'S HANDCART RACE	 카나리아 메리의 수레 경주
+260	 INSIDE THE GENERATOR CAVERN	 발전기 동굴 안
+261	 INSIDE THE WATERFALL CAVERN	 폭포 동굴 안
+262	 INSIDE THE ORDNANCE STORAGE	 탄약 창고 안
+263	 RESCUE THE RAT FROM MAYAHEM'S PRISON	 마야 대혼란 감옥의 쥐를 구하라
+264	 CRUSH THE JIGGY BOULDER AND COLLECT THE PIECES	 지기 바위를 부수고 조각을 모아라
+265	 BEHIND THE EXTERIOR WATERFALL	 바깥 폭포 뒤
+266	 IN THE POWER HUT BASEMENT	 발전 오두막 지하
+267	 IN THE FLOODED CAVES	 물에 잠긴 동굴 안
+268	 WIN THE 'HOOP HURRY' GAME	 '후프 질주' 게임에서 이겨라
+269	 WIN THE 'DODGEM DOME' GAMES	 '범퍼카 돔' 게임에서 이겨라
+270	 DEFEAT MR. PATCH	 패치 씨를 쓰러뜨려라
+272	 WIN THE 'BALLOON BURST' GAME	 '풍선 터뜨리기' 게임에서 이겨라
+273	 TOP OF THE 'DIVE OF DEATH' BOARD	 '죽음의 다이빙' 발판 꼭대기
+274	 RETURN KIDS TO MRS. BOGGY	 아이들을 보기 부인에게 돌려보내라
+275	 TOP OF THE STAR SPINNER	 스타 스피너 꼭대기
+276	 TOP OF THE INFERNO'S TOWER	 인페르노 탑 꼭대기
+278	 SEA BOTTOM CAVERN MINES GAME	 해저 동굴 기뢰 게임
+279	 HATCH AND HELP BABY TIPTUP	 아기 팁텁을 부화시켜 도와라
+280	 INSIDE THE TEMPLE OF THE FISHES	 물고기 사원 안
+281	 CLEAN UP AND HEAT THE POOL	 수영장을 청소하고 데워라
+282	 INSIDE SMUGGLER'S CAVERN BELOW JOLLY'S	 졸리네 아래 밀수꾼 동굴 안
+283	 RESCUE MERRY MAGGIE FROM INSIDE THE BIG FISH	 큰 물고기 안에서 메리 매기를 구하라
+284	 DEFEAT LORD WOO FAK FAK	 우 팍 팍 경을 쓰러뜨려라
+285	 INSIDE A TRANSPARENT FISH	 투명한 물고기 속
+286	 INSIDE PAWNO'S EMPORIUM	 포노의 상점 안
+287	 POWER UP THE UFO	 UFO에 동력을 넣어라
+288	 UNDERNEATH THE CENTER OF TERRY'S NEST	 테리의 둥지 한가운데 아래
+289	 FILL THE THIRSTY DINOSAUR'S POOL	 목마른 공룡의 연못을 채워라
+290	 HELP THE STYRACOSAURUS FAMILY	 스티라코사우루스 가족을 도와라
+291	 DEFEAT TERRY	 테리를 쓰러뜨려라
+292	 WARM UP AND GET FOOD FOR THE OOGLE BOOGLES	 우글 부글을 녹이고 먹을 것을 구해 줘라
+293	 INSIDE THE CHOMPASAUR'S BELLY	 촘파사우루스 배 속
+294	 HATCH AND RETURN TERRY'S EGGS	 테리의 알을 부화시켜 돌려줘라
+295	 ON THE STOMPING PLAINS	 쿵쾅 평원
+296	 DEFEAT THE ROCKNUTS TRIBE	 록넛츠 부족을 쓰러뜨려라
+297	 SMALL T-REX ROAR CODE	 작은 티라노 포효 암호
+298,307	 INSIDE THE WASTE DISPOSAL PLANT	 폐기물 처리장 안
+299	 DEFEAT WELDAR	 웰다를 쓰러뜨려라
+300	 EXTERMINATE THE CLINKERS ON FLOOR 4	 4층의 클링커를 처치하라
+301	 WASH THE FILTHY WORKERS	 더러운 일꾼들을 씻겨라
+302	 TOP OF CRATES ON FLOOR 5	 5층 상자 더미 꼭대기
+303	 QUALITY CONTROL ROOM ON FLOOR 4	 4층 품질 관리실
+304	 TOP OF THE CENTRAL PLATFORM ON FLOOR 1	 1층 중앙 발판 꼭대기
+305	 INSIDE THE TRASH COMPACTOR ON FLOOR 1	 1층 쓰레기 압축기 안
+306	 PACKING GAME ON FLOOR 3	 3층 포장 게임
+308	 DEFEAT CHILLY WILLY AND CHILLI BILLI	 칠리 윌리와 칠리 빌리를 쓰러뜨려라
+310	 HELP SABREMAN BACK TO HIS TENT	 세이버맨을 텐트로 데려다줘라
+311	 FEED BOGGY THE POLAR BEAR	 북극곰 보기에게 먹이를 줘라
+312	 ICE TRAIN STATION LINK	 얼음 기차역 연결 통로
+313	 ACTIVATE THE OIL DRILL	 석유 시추기를 가동하라
+314	 TERRYDACTYLAND'S STOMPING PLAINS LINK	 테리닥틸랜드 쿵쾅 평원 연결 통로
+315	 WIN THE COLOSSEUM KICKBALL GAMES	 콜로세움 킥볼 경기에서 이겨라
+316	 HELP THE UFO ALIENS	 UFO 외계인들을 도와라
+317	 INSIDE THE COLOSSEUM ARCHES	 콜로세움 아치 안
+318	 DEFEAT MINGY JONGO	 밍지 종고를 쓰러뜨려라
+319	 WIN THE CUCKOO OLYMPICS	 뻐꾸기 올림픽에서 이겨라
+320	 COMPLETE THE POT O' GOLD GAME	 황금 항아리 게임을 끝내라
+321	 CANARY MARY'S CLOCKWORK MOUSE RACE	 카나리아 메리의 태엽 쥐 경주
+322	 ZUBBA'S HIVE GAME	 주바의 벌집 게임
+323	 DEFEAT THE EYEBALL PLANTS	 눈알 식물을 쓰러뜨려라
+325	 TRASH CAN GERMS GAME	 쓰레기통 세균 게임
+326	 FIND THE SAFE'S COMBINATION	 금고 비밀번호를 찾아라
+336	FLIP Y AXIS : NO	Y축 반전 : 아니요
+337	FLIP Y AXIS : YES	Y축 반전 : 예
+338	PREVIOUS BEST :	이전 최고 기록 :
+339	Loading...	불러오는 중...
+340	Please sign in	로그인하세요
+341	This game requires you to sign in to a gamer profile to play	이 게임을 하려면 게이머 프로필에 로그인해야 합니다
+343	No device selected	선택한 장치 없음
+344	If you do not select a device, game saves will be disabled	장치를 선택하지 않으면 게임을 저장할 수 없습니다
+345	Select a device	장치 선택
+347	REINSTALL EXTRAS	특전 다시 설치
+348	REINSTALL DOUBLOON GAMER PICTURE	더블룬 게이머 사진 다시 설치
+349	REINSTALL STOP 'N' SWOP GAMER PICTURE	스톱 앤 스왑 게이머 사진 다시 설치
+350	REINSTALL BANJO THEME	반조 테마 다시 설치
+351	REINSTALLED	다시 설치 완료
+352	YOUR THEME HAS BEEN REINSTALLED!	테마를 다시 설치했습니다!
+353	YOUR GAMER PICTURE HAS BEEN REINSTALLED!	게이머 사진을 다시 설치했습니다!
+354	REINSTALLING...	다시 설치하는 중...
+355	PLEASE WAIT WHILST THE THEME REINSTALLS	테마를 다시 설치하는 동안 기다려 주세요
+356	INSTALLING...	설치하는 중...
+357	PLEASE WAIT WHILST THE THEME INSTALLS	테마를 설치하는 동안 기다려 주세요
+358	Loading failed	불러오기 실패
+359	Your storage device has been removed.  Please select a new one.	저장 장치가 분리되었습니다. 새 장치를 선택하세요.
+360	MOVE ONTO IT AND PRESS {85} TO WARP TO ANY OTHER WARP PAD THAT YOU HAVE ACTIVATED IN THIS WORLD!	위에 올라가 {85}를 누르면 이 월드에서 켜 둔 다른 워프 패드 어디로든 이동할 수 있어!
+364	JUST MOVE ONTO THE PAD AND PRESS {85} TO WARP.	패드 위에 올라가 {85}를 누르면 이동해.
+366	PRESS {85} TO RETURN TO YOUR MOLE-RESTORING QUEST.	{85}를 눌러 두더지 회복 여행으로 돌아가.
+369	WHILE GRABBING, PRESS {86} TO ATTACK, {87} TO CLIMB UP ONTO THE EDGE OR {85} TO RELEASE YOUR HOLD AND FALL.	매달린 상태에서 {86}을 누르면 공격, {87}을 누르면 모서리 위로 올라가고, {85}를 누르면 손을 놓고 떨어져.
+372	PRESS {87} TO LEARN THE MOVE, OR {85} TO BE DISMISSED.	{87}을 누르면 기술을 배우고, {85}를 누르면 물러난다.
+375	GET YOUR SORRY HIDE OVER HERE AND PRESS {85}!	그 한심한 몸뚱이 끌고 이리 와서 {85}를 눌러!
+377	PRESS {85} TO SEE MIGHTY MUMBO MAGIC!	{85} 누르면 위대한 멈보 마법 보여 준다!
+379	TO CONTROL ME AGAIN, RETURN STATUE TO ITS BASE AND PRESS {85}.	다시 나를 조종하려면 석상을 받침대에 돌려놓고 {85}를 눌러라.
+381	PRESS {85} WHEN NEAR THE MONOLITH TO ATTEMPT JIGGYWIGGY'S CHALLENGE ~.	모놀리스 근처에서 {85}를 눌러 지기위기의 도전 과제 ~에 도전하라.
+384	PRESS {85} TO VIEW THE MIGHTY ONE'S WISDOM...	{85}를 눌러 위대한 분의 지혜를 확인하라...
+386	PRESS {85} IF YOU WISH TO TRY IT...	도전해 보고 싶다면 {85}를 눌러라...
+388	APPROACH THE MONOLITH AND PRESS {85} TO ATTEMPT THE SUPER SPECIAL CHALLENGE.	모놀리스에 다가가 {85}를 눌러 슈퍼 스페셜 도전에 도전하라.
+391	PRESS {85} WHEN NEXT TO ONE TO READ IT...	옆에 서서 {85}를 누르면 읽을 수 있어...
+393	PRESS {85} TO EXPERIENCE THE SCENIC SPLENDOR OF THE CABLE CAR RIDE ACROSS TO SPACE ZONE!	{85}를 눌러 우주 구역까지 가는 케이블카의 멋진 경치를 즐겨 보세요!
+396	SELECT A GAME FILE TO COPY INTO. {87} TO COPY, {85} TO CANCEL.	복사해 넣을 게임 파일을 고르세요. {87} 복사, {85} 취소.
+397	ARE YOU SURE? {87} YES, {85} NO.	정말입니까? {87} 예, {85} 아니요.
+398	OR PRESS {85} TO RETURN TO YOUR URGENT MOLE-RESTORING QUEST.	아니면 {85}를 눌러 급한 두더지 회복 여행으로 돌아가.
+400	SELECT A DESTINATION.\n{87} SELECT {85} CANCEL	목적지를 고르세요.\n{87} 선택 {85} 취소
+402	SELECT FLOOR, PLEASE?\n{87} SELECT {85} CANCEL	몇 층으로 갈까요?\n{87} 선택 {85} 취소
+404	WHERE Y' GOING, PUNK?\n{87} SELECT {85} CANCEL	어디 가냐, 애송이?\n{87} 선택 {85} 취소
+406	PICK A WORLD TO PLAY.\n{87} SELECT {85} CANCEL	플레이할 월드를 고르세요.\n{87} 선택 {85} 취소
+408	PICK A TRACK TO PLAY.\n{87} SELECT {85} CANCEL	플레이할 트랙을 고르세요.\n{87} 선택 {85} 취소
+410	CHOOSE A DESTINATION.\n{87} SELECT {85} CANCEL	목적지를 고르세요.\n{87} 선택 {85} 취소
+412	{87} YES {85} NO	{87} 예 {85} 아니요
+413	{87} AYE {85} NAW	{87} 그래 {85} 아니
+414	{87} YUS {85} NOPE	{87} 그렇다 {85} 아니다
+415	{85} NO	{85} 아니요
+416	PRESS {88} OR {81} TO FIRE EGGS AND USE {89} OR {80} TO TOGGLE THE AIMING SIGHT ON AND OFF.	{88}이나 {81}을 누르면 알을 쏘고, {89}나 {80}으로 조준경을 켜고 끌 수 있어.
+419	TAP {89} OR {80} TO GET YOUR EGGS ON VIEW,	{89}나 {80}을 눌러 알이 보이게 하고,
+420	YOU CAN ALSO BRING THE CAMERA LEVEL BY PRESSING {89} OR {80}.	{89}나 {80}을 누르면 카메라를 수평으로 맞출 수도 있어.
+422	SELECT THESE EGGS BY PRESSING {89} OR {80} UNTIL THEY ARE HIGHLIGHTED.	{89}나 {80}을 눌러 이 알이 표시될 때까지 고르면 돼.
+423	WHEN IN BREEGULL BLASTER SECTIONS, ACTIVATE THE AIMING SIGHT BY HOLDING {89} OR {80}.	브리걸 블래스터 구간에서는 {89}나 {80}을 누른 채 조준경을 켜.
+426	WHITE SPARKLIES INDICATE THE NEXT CREATURE THAT WILL BE CONTROLLABLE WHEN {89} OR {80} IS PRESSED.	흰 반짝임은 {89}나 {80}을 눌렀을 때 조종할 수 있는 다음 생물을 알려 줘.
+430	IF YOU DON'T KNOW THE ANSWER, I'LL LET YOU PRESS {88} OR {81} TO PASS AND MOVE ON TO THE NEXT QUESTION.	답을 모르면 {88}이나 {81}을 눌러 넘기고 다음 문제로 가게 해 주지.
+434	PRESS {88} OR {81} TO PASS.	{88}이나 {81}을 누르면 넘긴다.
+435	USE THE LEFT STICK TO MOVE THE AIMING SIGHT AND PRESS {88} OR {81} TO FIRE.	왼쪽 스틱으로 조준경을 움직이고 {88}이나 {81}을 눌러 쏴.
+437	PRESS {86} FOR SONIC PING ATTACK OR {88} OR {81} FOR TORPEDO ATTACK.	{86}을 눌러 음파 공격을, {88}이나 {81}을 눌러 어뢰 공격을 한다.
+439	USE LEFT STICK TO MOVE AND PRESS {88} OR {81} TO FIRE PLENTY UNDERWEAR.	왼쪽 스틱으로 움직이고 {88}이나 {81}을 눌러 속옷을 잔뜩 쏜다.
+441	ALSO PRESS {88} OR {81} FOR STINGER ATTACK.	또한 {88}이나 {81}을 눌러 침 공격을 한다.
+442	USE THE LEFT STICK TO MOVE, {88} OR {81} TO KICK THE BALL AND {86} TO BARGE.	왼쪽 스틱으로 움직이고 {88}이나 {81}로 공을 차고 {86}으로 몸통 박치기를 한다.
+445	{88} OR {81} FIRES EGGS BOTH HIGH AND LOW,	{88}이나 {81}로 높게도 낮게도 알을 쏘고,
+447	HIT {88} OR {81} TO FIRE WITH ACCURACY!	{88}이나 {81}을 눌러 정확하게 쏴!
+449	WHILE IN BANJO'S EYES VIEW, USE {88} OR {81} TO FIRE EGGS AND RIGHT STICK RIGHT TO TOGGLE THE AIMING SIGHT OFF AND ON.	반조의 눈 시점에서 {88}이나 {81}로 알을 쏘고, 오른쪽 스틱을 오른쪽으로 밀어 조준경을 켜고 끌 수 있어.
+453	LEAP HIGH IN THE AIR AND THEN HOLD {88} OR {81},	높이 뛰어오른 뒤 {88}이나 {81}을 누르고,
+456	JUMP IN THE AIR, THEN PRESS AND HOLD {88} OR {81}.	점프한 뒤 {88}이나 {81}을 길게 눌러.
+458	PRESS AND HOLD {88} OR {81} TO CROUCH, THEN PRESS {84} OR {85} TO FIRE EGGS FORWARDS OR BACKWARDS.	{88}이나 {81}을 누른 채 웅크리고 {84}나 {85}를 누르면 앞이나 뒤로 알을 쏴.
+461	PRESS AND HOLD {88} OR {81} TO CROUCH, THEN PRESS RIGHT STICK RIGHT TO ACTIVATE THE MOVE. CONTINUE TO HOLD {88} OR {81} AND USE THE LEFT STICK TO MOVE AROUND.	{88}이나 {81}을 누른 채 웅크리고 오른쪽 스틱을 오른쪽으로 밀면 기술이 발동해. {88}이나 {81}을 계속 누른 채 왼쪽 스틱으로 움직여.
+466	PRESS AND HOLD {88} AND {81}. CONTINUE TO HOLD {88} OR {81} AND USE THE LEFT STICK TO MOVE AROUND.	{88}과 {81}을 누른 채로 있어. {88}이나 {81}을 계속 누른 채 왼쪽 스틱으로 움직여.
+470	FINALLY, PRESS AND HOLD {88} OR {81} TO CROUCH, THEN PRESS {87} FOR YOUR BACKFLIP JUMP.	마지막으로 {88}이나 {81}을 누른 채 웅크리고 {87}을 누르면 백플립 점프야.
+473	PRESS AND HOLD {88} OR {81}, THEN PRESS {86}.	{88}이나 {81}을 누른 채 {86}을 눌러.
+475	PRESS {87} TO JUMP, THEN PRESS {88} OR {81} WHILE IN THE AIR.	{87}로 점프한 뒤 공중에서 {88}이나 {81}을 눌러.
+477	THEN PRESS {88} OR {81} TO SHOOT FROM HEIGHT!	그다음 {88}이나 {81}을 눌러 높은 곳에서 쏴!
+478	WHILE IN BANJO'S EYES VIEW, USE {88} OR {81} TO FIRE AND RIGHT STICK RIGHT TO TOGGLE THE AIMING SIGHT OFF AND ON.	반조의 눈 시점에서 {88}이나 {81}로 쏘고, 오른쪽 스틱을 오른쪽으로 밀어 조준경을 켜고 끌 수 있어.
+482	{88} OR {81} LAUNCHES BIRD, JUST WATCH HER GO,	{88}이나 {81}로 새를 날려 보내고 지켜봐,
+484	PRESS {88} OR {81} TO LAUNCH HER, THEN USE THE LEFT STICK TO STEER, {87} TO SPEED UP OR {86} TO CANCEL HER AND RETURN TO BANJO.	{88}이나 {81}을 눌러 카주이를 쏘고, 왼쪽 스틱으로 조종하고, {87}로 빨라지거나 {86}으로 취소하고 반조에게 돌아와.
+489	FOLLOWED BY {88} OR {81} TO START A FIGHT!	이어서 {88}이나 {81}을 누르면 싸움 시작!
+490	TO REMOVE THE EMPTY BACKPACK, PRESS AND HOLD {88} OR {81}, THEN PRESS RIGHT STICK LEFT.	빈 배낭을 벗으려면 {88}이나 {81}을 누른 채 오른쪽 스틱을 왼쪽으로 밀어.
+493	CONTINUE TO HOLD {88} OR {81} AND PRESS {86} TO COLLECT AN OBJECT.	{88}이나 {81}을 계속 누른 채 {86}을 누르면 물건을 집어.
+496	REMOVE THE FULL BACKPACK BY HOLDING {88} OR {81} AND PRESSING RIGHT STICK LEFT AS BEFORE.	가득 찬 배낭은 아까처럼 {88}이나 {81}을 누른 채 오른쪽 스틱을 왼쪽으로 밀면 벗을 수 있어.
+499	SO HOLD DOWN {88} OR {81} AND THEN PRESS {86},	그러니 {88}이나 {81}을 누른 채 {86}을 누르고,
+500	FIRST HOLD {88} OR {81} THEN PRESS RIGHT STICK DOWN,	먼저 {88}이나 {81}을 누른 채 오른쪽 스틱을 아래로 밀고,
+502	PRESS AND HOLD {88} OR {81}, THEN PRESS RIGHT STICK DOWN. CONTINUE TO HOLD {88} OR {81} AND USE THE LEFT STICK TO MOVE HIM AROUND.	{88}이나 {81}을 누른 채 오른쪽 스틱을 아래로 밀어. {88}이나 {81}을 계속 누른 채 왼쪽 스틱으로 반조를 움직여.
+507	JUMP UP HIGH AND THEN HOLD {88} OR {81},	높이 뛰어오른 뒤 {88}이나 {81}을 누르고,
+509	{88} OR {81} FOLLOWED BY RIGHT STICK RIGHT REMOVES YOUR PACK,	{88}이나 {81}에 이어 오른쪽 스틱을 오른쪽으로 밀면 배낭을 벗고,
+513	PRESS AND HOLD {88} OR {81}, THEN PRESS RIGHT STICK RIGHT. CONTINUE TO HOLD {88} OR {81} UNTIL HIS HEALTH IS RESTORED.	{88}이나 {81}을 누른 채 오른쪽 스틱을 오른쪽으로 밀어. 체력이 다 찰 때까지 {88}이나 {81}을 계속 누르고 있어.
+517	HOLD DOWN {88} OR {81} AND THEN PRESS {87},	{88}이나 {81}을 누른 채 {87}을 누르고,
+518	PRESS AND HOLD {88} OR {81}, THEN PRESS {87}.	{88}이나 {81}을 누른 채 {87}을 눌러.
+519	HOLD BUTTON {88} OR {81} AND THEN PRESS RIGHT STICK UP,	{88}이나 {81} 버튼을 누른 채 오른쪽 스틱을 위로 밀고,
+521	PRESS AND HOLD {88} OR {81}, THEN PRESS RIGHT STICK UP. CONTINUE TO HOLD {88} OR {81} AND USE THE LEFT STICK TO MOVE HIM AROUND.	{88}이나 {81}을 누른 채 오른쪽 스틱을 위로 밀어. {88}이나 {81}을 계속 누른 채 왼쪽 스틱으로 반조를 움직여.
+526	WHEN THE CROSSHAIR APPEARS, PRESS {88} OR {81} TO FIRE AT THE TARGETS TO SCORE POINTS.	십자선이 나타나면 {88}이나 {81}을 눌러 표적을 맞혀 점수를 올려라.
+529	PRESS {87} TO SELECT GAMES, {88} OR {81} TO RESET THE MENU AND {7F} TO PLAY.	{87}로 게임을 고르고 {88}이나 {81}로 메뉴를 초기화하고 {7F}로 시작해.
+530	WHICH OF THE BANJO-ONLY MOVES IS ACTIVATED BY HOLDING {88} OR {81} AND PRESSING RIGHT STICK RIGHT?	{88}이나 {81}을 누른 채 오른쪽 스틱을 오른쪽으로 밀어 쓰는 반조 전용 기술은?
+534	WHICH OF THE BANJO-ONLY MOVES IS ACTIVATED BY HOLDING {81} AND PRESSING RIGHT STICK UP?	{81}을 누른 채 오른쪽 스틱을 위로 밀어 쓰는 반조 전용 기술은?
+538	PRESS RIGHT STICK LEFT OR RIGHT TO ROTATE THE CAMERA IN SMALL AMOUNTS.	오른쪽 스틱을 왼쪽이나 오른쪽으로 밀면 카메라가 조금씩 돌아가.
+541	PRESS AND HOLD RIGHT STICK LEFT OR RIGHT TO ROTATE THE CAMERA CONSTANTLY.	오른쪽 스틱을 왼쪽이나 오른쪽으로 계속 밀고 있으면 카메라가 계속 돌아가.
+544	WELL, WHEN IN BANJO'S EYES VIEW, USE RIGHT STICK UP AND DOWN TO ZOOM IN AND OUT!	음, 반조의 눈 시점일 땐 오른쪽 스틱을 위아래로 밀어 확대/축소해!
+548	NOW YOU WILL ALSO NEED TO ROTATE PIECES BY PRESSING RIGHT STICK LEFT AND RIGHT STICK RIGHT.	이제 오른쪽 스틱을 왼쪽, 오른쪽으로 밀어서 조각을 돌려야 해.
+552	USE LEFT STICK TO MOVE AND PRESS {86} FOR BIG HEAP BARGE ATTACK.	왼쪽 스틱으로 움직이고 {86}을 눌러 완전 큰 몸통 박치기 공격을 한다.
+554	USE LEFT STICK TO MOVE AND PRESS {86} FOR SELF-DESTRUCT ATTACK.	왼쪽 스틱으로 움직이고 {86}을 눌러 자폭 공격을 한다.
+556	USE LEFT STICK TO TURN ON SPOT AND {87} FOR MUCH SPEED.	왼쪽 스틱으로 제자리에서 돌고 {87}로 완전 빨리 간다.
+558	USE LEFT STICK TO MOVE AND PRESS {86} FOR HORN.	왼쪽 스틱으로 움직이고 {86}을 눌러 경적을 울린다.
+560	USE LEFT STICK TO MOVE.	왼쪽 스틱으로 움직인다.
+561	USE LEFT STICK TO MOVE AND {86} TO MAKE MUCH NOISE.	왼쪽 스틱으로 움직이고 {86}으로 완전 큰 소리 낸다.
+563	USE LEFT STICK TO MOVE AND HOLD {86} FOR BIG HEAP ROLL ATTACK.	왼쪽 스틱으로 움직이고 {86}을 누른 채 완전 큰 구르기 공격을 한다.
+565	USE LEFT STICK TO STEER AND PRESS {87} TO FLY HIGHER.	왼쪽 스틱으로 방향을 잡고 {87}을 누르면 더 높이 날아.
+567	PRESS UP OR DOWN ON THE LEFT STICK TO HIGHLIGHT AN OPTION, THEN PRESS {87} TO CHOOSE IT.	왼쪽 스틱을 위아래로 밀어 항목을 고르고 {87}을 눌러 정해.
+570	THE GRIP GRAB ALLOWS YOU TO AUTOMATICALLY GRAB EDGES, THEN USE THE LEFT STICK TO MOVE ALONG THEM.	그립 그랩을 쓰면 모서리를 자동으로 붙잡고 왼쪽 스틱으로 따라 움직일 수 있어.
+574	USE THE LEFT STICK TO MOVE AROUND.	왼쪽 스틱으로 움직여.
+575	THE MORE THE LEFT STICK IS PRESSED, THE FASTER YOU WILL MOVE, VARYING FROM A TIPTOE TO A RUN.	왼쪽 스틱을 많이 밀수록 빨라져서 살금살금 걷기부터 달리기까지 할 수 있어.
+577	USE THE LEFT STICK TO MOVE UP OR DOWN AND PRESS {87} TO JUMP OFF.	왼쪽 스틱으로 위아래로 움직이고 {87}을 누르면 뛰어내려.
+579	USE THE LEFT STICK TO MOVE AROUND ON THE SURFACE.	왼쪽 스틱으로 물 위를 돌아다녀.
+581	ONCE AIRBORNE, USE THE LEFT STICK TO STEER AND PRESS {87} TO FLY HIGHER.	떠오른 뒤에는 왼쪽 스틱으로 방향을 잡고 {87}을 누르면 더 높이 날아.
+583	THIS IS A MISSILE-LIKE ATTACK WHICH CAN ALSO BE GUIDED BY USING THE LEFT STICK.	미사일 같은 공격으로, 왼쪽 스틱으로 방향을 조종할 수도 있어.
+585	PRESS {84} TO USE THE BANJO'S EYES VIEW. USE THE LEFT STICK TO LOOK AROUND AND PRESS {84} AGAIN TO EXIT.	{84}를 누르면 반조의 눈 시점이 돼. 왼쪽 스틱으로 둘러보고 {84}를 다시 누르면 나와.
+590	LEFT STICK TO STEER 'N' {87} FOR SPEED,	왼쪽 스틱으로 방향, {87}로 속도,
+593	USE THE LEFT STICK TO MOVE THE BOMB AROUND AND DETONATE IT BY PRESSING {86}.	왼쪽 스틱으로 폭탄을 움직이고 {86}을 눌러 터뜨려.
+596	ONCE LAUNCHED, USE THE LEFT STICK TO GUIDE THE EGG AND {86} TO DETONATE IT.	쏜 뒤에는 왼쪽 스틱으로 알을 조종하고 {86}으로 터뜨려.
+600	USE THE LEFT STICK TO GUIDE YOUR HAND.	왼쪽 스틱으로 손을 움직여.
+602	PRESSING THE LEFT STICK ONLY SLIGHTLY WILL MAKE YOU TIPTOE SILENTLY.	왼쪽 스틱을 살짝만 밀면 소리 없이 살금살금 걸어.
+604	USE LEFT AND RIGHT ON THE LEFT STICK TO PICK A CHARACTER!	왼쪽 스틱을 좌우로 밀어 캐릭터를 골라!
+605	USE LEFT AND RIGHT ON THE LEFT STICK TO PICK YOUR TEAMS!	왼쪽 스틱을 좌우로 밀어 팀을 골라!
+606	USE LEFT AND RIGHT ON THE LEFT STICK TO PICK YOUR TARGET!	왼쪽 스틱을 좌우로 밀어 상대를 골라!
+607	USE THE LEFT STICK TO MOVE UP AND DOWN THROUGH THE LIST.	왼쪽 스틱으로 목록을 위아래로 움직여.
+609	PRESS UP OR DOWN ON THE LEFT STICK TO HIGHLIGHT AN OPTION, THEN PRESS {87} TO SELECT IT.	왼쪽 스틱을 위아래로 밀어 항목을 고르고 {87}을 눌러 선택해.
+644	THAT WELL KNOWN ITALIAN ONE ISN'T DOING MUCH AT THE MOMENT.	그 유명한 이탈리아 녀석은 요즘 별로 하는 게 없어.
+799	NOW, IF I SET MY SATELLITE TO 11.671, I RECKON IT SHOULD BE TIME FOR BEAR BABES 'N' BIGFOOT!	자, 위성을 11.671에 맞추면 이제 베어 베이브즈 앤 빅풋 할 시간일 거야!
+1063	THE CONTROLLERS ARE NOT CORRECTLY SETUP FOR TWO PLAYERS.	2인 플레이용 컨트롤러 설정이 올바르지 않습니다.
+1064	THE CONTROLLERS ARE NOT CORRECTLY SETUP FOR THREE PLAYERS.	3인 플레이용 컨트롤러 설정이 올바르지 않습니다.
+1104	SIGN IN AND PRESS {87} TO PLAY!	로그인하고 {87}을 눌러 플레이!
+1106	WAITING FOR MORE PLAYERS	다른 플레이어를 기다리는 중
+1107	PLAYER 1 PRESS {87} TO START	플레이어 1, {87}을 눌러 시작
+1108	PRESS {87} TO JOIN	{87}을 눌러 참가
+1109	PLAYER ~ - 	플레이어 ~ -
+1111	YOU'VE GOT NO EGGS FROM BANJO YOU HAIRY FOOL!	반조한테 받은 알이 하나도 없잖아, 이 털북숭이 바보야!
+1114	GO AND PLAY THE FIRST GAME AND FIND SOME	첫 번째 게임을 해서 좀 찾아와
+1116	YOU'VE GOT NO MORE EGGS TO HATCH, BUT THERE ARE MORE TO FIND!	더 부화시킬 알은 없지만 찾을 알은 더 있어!
+1119	GO AND PLAY THE FIRST GAME AND GET THEM	첫 번째 게임을 해서 가져와
+1121	SEE HEGGY SPECIAL EGG	헤기 특별 알 보인다
+1123	OK, BUT WHAT DO I DO WITH IT?	그래, 근데 이걸로 뭘 해?
+1125	NOTHING. PLAYING TRIAL GAME.	아무것도. 체험판 하는 중.
+1128	HUH? SO I NEED TO UNLOCK THE FULL GAME TO FIND OUT?	응? 그럼 알아내려면 정식판을 사야 한다는 거야?
+1132	DO YOU WANT HEGGY TO HATCH THE EGG?	헤기한테 알을 부화시켜 달라고 할까?
+1134	COME BACK LATER!	나중에 다시 와!
+1135	BUT NOT EIGHT YEARS LATER.	8년 뒤 말고.
+1137	NO EGGS, BUT SEE SHINY KEY.	알은 없지만 반짝이는 열쇠 보인다.
+1139	TAKE TO ICE CHEST.	얼음 상자로 가져가.
+1140	HAILFIRE PEAKS.	불얼음 봉우리.
+1141	OKAY, THANKS FOR THE ADVICE.	그래, 조언 고마워.
+1142	FOR A MINUTE THERE I THOUGHT THE BIG BAG OF FEATHERS WANTED TO HATCH THE KEY...	저 커다란 깃털 자루가 열쇠를 부화시키려는 줄 알았잖아...
+1144	...YOU'D BE CARRYING IT IF SHE DID!	...그랬으면 네가 들고 다녔겠지!
+1150	YOU SEE SOMETHING WE DON'T? I SUPPOSE IT IS 10 YEARS OLD. DOES IT SMELL BAD?	우리 눈엔 안 보이는 게 보여? 하긴 10년 묵은 거니까. 냄새 고약해?
+1156	GOT ANOTHER SPECIAL EGG.	특별 알 또 있다.
+1158	IN THE SAME NEST, RIGHT?	같은 둥지에 있는 거, 맞지?
+1161	SEE ANOTHER HEGGY SPECIAL EGG.	헤기 특별 알 또 보인다.
+1163	HOPE IT'S SOMETHING GOOD... MAYBE IT'LL GRANT MY WISH TO STAR IN MY OWN GAME?	좋은 거면 좋겠다... 혹시 나만의 게임에 주인공으로 나오게 해 주려나?
+1166	NO CHANCE, RARE HAVE PLANS FOR US YET!	어림없어, 레어는 아직 우리한테 계획이 있다고!
+1169	AH WELL. LET ME GUESS: CLUCK?	아, 그래. 맞혀 볼까. 꼬꼬?
+1172	THROW IT IN.	던져 넣어.
+1175	THIS ONE SEEMS HEAVY.	이건 무거워 보인다.
+1176	CAREFUL!	조심해!
+1177	SEE ANOTHER HEGGY EGG.	헤기 알 또 보인다.
+1179	EGG HATCHING! WHO'D HAVE THOUGHT STOP 'N' SWOP WOULD COME TO THIS. IT'LL BE MACHINES NEXT...	알 부화라니! 스톱 앤 스왑이 이렇게 될 줄 누가 알았겠어. 다음엔 기계겠지...
+1183	HAND IT OVER!	이리 내놔!
+1184	LAST EGG.	마지막 알.
+1185	TIRED NOW...	이제 피곤하다...
+1186	HOW DO YOU THINK I FEEL, CARRYING THEM FOR 10 YEARS?	10년 동안 들고 다닌 나는 어떻겠냐?
+1188	WAITING...	기다리는 중...
+1189	SPECIAL HEGGY EGG AWARDS GAMER PIC!	헤기 특별 알은 게이머 사진을 준다!
+1192	LOOKS NICE.	멋진데.
+1193	I LIKE IT.	마음에 들어.
+1194	AMAZING... AND I THOUGHT EGGS HAD BIRDS IN THEM.	대단해... 알 속엔 새가 든 줄 알았는데.
+1197	SPECIAL HEGGY EGG AWARDS BANJO-KAZOOIE THEME!	헤기 특별 알은 반조-카주이 테마를 준다!
+1200	COOL BEAR AND BIRD DASH!	멋진 곰과 새 대시!
+1202	I LIKE THAT TOO.	그것도 마음에 들어.
+1203	AT LEAST THEY MANAGED TO FIT US IN AROUND ALL THOSE BOXES.	그래도 저 상자들 사이에 우리를 끼워 넣긴 했네.
+1206	MY!	어머!
+1207	VERY SPECIAL HEGGY EGG AWARD!	아주 특별한 헤기 알 선물!
+1210	THIS MIGHT BE USEFUL... ONE DAY.	이거 쓸모 있을지도... 언젠가는.
+1212	HERE WE GO AGAIN... WELL, AT LEAST THAT MEANS WE'LL GET TO SEE OUR 20TH BIRTHDAYS.	또 시작이네... 그래도 덕분에 우리 스무 살 생일은 보겠다.
+1215	YOU THINK SO? SURELY RARE WILL MAKE THE NEXT GAME FASTER THAN THAT?	그럴까? 설마 레어가 다음 게임은 그보다 빨리 만들겠지?
+1219	IT'S A SUPER-SECRET BRONZE EGG!	극비 청동 알이다!
+1221	I WONDER WHAT THAT'S DOING HERE...	이게 왜 여기 있지...
+1223	IT'S A VERY FLASHY SILVER EGG!	아주 번쩍이는 은색 알이다!
+1225	BETTER KEEP THAT IN A 'SAVE' PLACE...	'저장'하게 잘 보관해 둬...
+1227	WHOA!	우와!
+1228	IT'S A SPANGLY GOLDEN EGG!	반짝반짝 황금 알이다!
+1230	JUST TAKE CARE OF IT!	잘 간수해!
+1232	LOOK, I CAN STILL SEE MY OLD DIRT PILES. PRESS {85} TO INTERACT WITH THEM TO REMIND YOU OF YOUR ORIGINAL MOVES.	봐, 내 옛날 흙더미가 아직 보여. {85}를 눌러 살펴보면 예전 기술을 떠올릴 수 있어.
+1237	SELECT GAME FILE TO ERASE, THEN PRESS {87}, OR PRESS {85} TO CANCEL.	지울 게임 파일을 고르고 {87}을 누르세요. 취소는 {85}.
+1238	SELECT GAME FILE TO COPY, THEN PRESS {87}, OR PRESS {85} TO CANCEL.	복사할 게임 파일을 고르고 {87}을 누르세요. 취소는 {85}.
+1239	HOW MANY BUTTONS HAS AN OFFICIAL XBOX 360 CONTROLLER?	정품 XBOX 360 컨트롤러의 버튼은 몇 개인가?
+1244	A GAMING DEVICE	게임 기기
+1245	A GAMING DEVICE CAMERA	게임 기기 카메라
+1246	BANJO, KAZOOIE AND A BIG MONKEY	반조, 카주이, 그리고 큰 원숭이
+1248	BANJO-KAZOOIE: NUTS & BOLTS	반조-카주이: 너츠 & 볼츠
+1251	A CUDDLY GORILLA	껴안고 싶은 고릴라
+1252	WHAT IS THE NAME OF THE LATEST BANJO AND KAZOOIE ADVENTURE?	반조와 카주이의 최신 모험의 이름은?
+1254	BANJO THREEIE	반조 쓰리이
+1255	BANJO-KABOOMIE	반조-카부미
+1256	PUSH THE RIGHT STICK UP OR DOWN TO SELECT BETWEEN THE CAMERA DISTANCES AVAILABLE.	오른쪽 스틱을 위아래로 밀어 카메라 거리를 고를 수 있어.
+1258	FIND A PAIR OF PADS WITH BANJO AND KAZOOIE'S IMAGE ON THEM, STAND ON THE BANJO PAD AND PRESS {85}.	반조와 카주이 그림이 있는 패드 한 쌍을 찾아 반조 패드 위에 서서 {85}를 눌러.
+1262	ONCE SEPARATED, YOU CAN STAND ON THE PAD OR NEAR A SWAP CLOUD AND PRESS {85} TO CHANGE TO THE OTHER CHARACTER.	분리된 뒤에는 패드 위나 스왑 클라우드 근처에 서서 {85}를 누르면 다른 캐릭터로 바꿀 수 있어.
+1267	PICK A CONTROL STYLE AND PRESS {7F} TO PLAY!	조작 방식을 고르고 {7F}를 눌러 시작!
+1269	GO ON, JUMP ON BOARD AND PRESS {86} AS FAST AS YOU CAN TO POWER THE MOUSE ALONG.	자, 올라타서 {86}을 최대한 빨리 눌러 쥐를 달리게 해.
+1272	PRESS {86} AS FAST AS YOU CAN TO POWER IT ALONG.	{86}을 최대한 빨리 눌러 달리게 해.
+1274	SIMPLY TAP {86} AS FAST AS YOU CAN TO DRIVE THE HANDCART ALONG.	{86}을 최대한 빨리 연타해서 수레를 움직여.
+1276	YOU GOT ALL THE DOUBLOONS!  WELL DONE!	더블룬을 전부 모았구나! 잘했어!
+1277	JUST FOR THAT YOU CAN HAVE A NEW GAMER PICTURE!	그 상으로 새 게이머 사진을 줄게!
+1278	THAT'S IT, THINK POSITIVE!	바로 그거야, 긍정적으로 생각해!
+1279	I WONDER....	궁금한데....
+1280	OH GOODY, I SENSE AN EARTH-SHATTERING REVELATION COMING ON.	오, 좋아라, 세상이 뒤집힐 계시가 내려오는 느낌이야.
+1281	....MAYBE IT'S WORTH TRYING OUT THE L.O.G.{92}S LOST CHALLENGES DLC?	....L.O.G.의 잃어버린 도전 DLC를 해 볼 만할지도?
+1282	GOOD IDEA, YOU NEVER KNOW, THERE MIGHT BE MORE STOP'N'SWOP SURPRISES...	좋은 생각이야, 혹시 알아, 스톱 앤 스왑 깜짝 선물이 더 있을지...
+1283	NOW THINK YOU TRY SOMETHING NEW...	이제 뭔가 새로운 걸 해 봐야겠다...
+1284	OH NO, SHE'S OFF ON ONE AGAIN...	아, 안 돼, 또 시작이네...
+1285	...L.O.G.{92}S LOST CHALLENGES!	...L.O.G.의 잃어버린 도전!
+1286	WHAT?....FIRST A DRAGON AND NOW THIS? THAT MUST BE FOR NUTS & BOLTS	뭐?....처음엔 드래곤, 이번엔 이거? 그건 분명 너츠 & 볼츠용이야
+1291	BANJO! IF YOU USE THIS CHEAT, SAVING WILL BE STOPPED, AND YOUR SCORE WILL NOT BE POSTED TO THE LEADERBOARDS!	반조! 이 치트를 쓰면 저장이 멈추고 점수도 순위표에 안 올라가!
+1296	ARE YOU SURE YOU WANT TO USE THIS CHEAT? PRESS {87} FOR YES OR {85} FOR NO...	정말 이 치트를 쓸 거야? 예는 {87}, 아니요는 {85}...
+1300	TO CHANGE TO THE OTHER CHARACTER, STAND ON YOUR PAD OR NEAR A SWAP CLOUD AND PRESS {85}.	다른 캐릭터로 바꾸려면 패드 위나 스왑 클라우드 근처에 서서 {85}를 눌러.
+1304	ONLY SPEAK TO SMELLY BEAR AND SKINNY BIRD TOGETHER.	냄새나는 곰과 깡마른 새가 같이 있을 때만 말한다.
+1318	WHO IS ON THE FRONT OF THE BANJO-TOOIE ARCADE BOX?	반조-투이 아케이드 상자 앞면에 있는 건 누구인가?
+1321	ONLY BANJO AND KAZOOIE	반조와 카주이만
+1322	WHAT ARE BANJO AND KAZOOIE DOING ON THE THE BANJO-TOOIE ARCADE BOX?	반조-투이 아케이드 상자에서 반조와 카주이는 무엇을 하고 있는가?
+1323	COOKING	요리
+1324	FLYING	비행
+1325	PLAYING CARDS	카드놀이
+1326	WHAT IS BANJO WAVING ON THE BANJO-KAZOOIE ARCADE BOX ART?	반조-카주이 아케이드 상자 그림에서 반조가 흔드는 것은?
+1327	HIS RIGHT HAND	오른손
+1328	KAZOOIE	카주이
+1329	HIS LEFT HAND	왼손
+1477	A BREEGULL BLASTING SHOOTOUT, HIGHEST SCORE WINS.	브리걸로 쏘는 사격전. 최고 점수가 승리.
+1478	GET BALLS INTO YOUR GOAL TO SCORE POINTS, HIGHEST SCORE WINS.	공을 자기 골대에 넣어 점수를 얻는다. 최고 점수가 승리.
+1479	YELLOW +2 POINTS, RED -1 POINT, BLACK EXPLODES AND SPINS PLAYERS.	노랑 +2점, 빨강 -1점, 검정은 터지며 플레이어를 돌린다.
+1480	CAPTURE TWINKLIES, HIGHEST SCORE WINS.	반짝이를 잡아라. 최고 점수가 승리.
+1481	BLUE +3 POINTS, GREEN +2 POINTS, RED +1 POINT.	파랑 +3점, 초록 +2점, 빨강 +1점.
+1482	JUMP THROUGH HOOPS, TURBO TRAINERS HELP. HIGHEST SCORE WINS.	후프를 통과하라. 터보 트레이너가 도움이 된다. 최고 점수가 승리.
+1483	FLY AROUND AND BURST BALLOONS, HIGHEST SCORE WINS.	날아다니며 풍선을 터뜨려라. 최고 점수가 승리.
+1484	A SHOOTOUT WITH TORPEDOES, HIGHEST SCORE WINS.	어뢰로 겨루는 사격전. 최고 점수가 승리.
+1485	SHOOT THE GERMS, HIGHEST SCORE WINS.	세균을 쏴라. 최고 점수가 승리.
+1486	GET BALLS INTO OPPONENT GOALS TO INCREASE THEIR SCORE, LOWEST SCORE WINS.	공을 상대 골대에 넣어 상대 점수를 올린다. 최저 점수가 승리.
+1487	CAPTURE TWINKLIES, HIGHEST SCORE WINS. TURBO TRAINERS HELP.	반짝이를 잡아라. 최고 점수가 승리. 터보 트레이너가 도움이 된다.
+1488	RID THE GERMS, HIGHEST SCORE WINS.	세균을 없애라. 최고 점수가 승리.
+1489	SHOOT OPPONENTS WITH HOMING STINGS.	유도 침으로 상대를 쏴라.
+1490	ACCURACY	정확도
+1492	HOOPS	후프
+1493	GERMS	세균
