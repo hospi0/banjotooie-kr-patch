@@ -11,3 +11,5 @@
 !work/text/*.tsv
 !work/text/bt_poc/
 !work/text/bt_poc/*.tsv
+!work/text/fixed/
+!work/text/fixed/*.tsv

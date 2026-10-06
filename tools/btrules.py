@@ -26,7 +26,10 @@ BANNER = '''=== 반조-투이 번역 규칙 (적재기가 막음 — 하나라�
 '''
 
 AUTO_FIX = [('＿', ' '), ('…', '...'), ('‥', '..'), ('“', '"'), ('”', '"'), ('‘', "'"), ('’', "'"),
-            ('～', '~'), ('　', ' ')]
+            ('～', '~'), ('　', ' '),
+            # 2026-10-06 하스피 번역: 전각 부호 / 줄표 / 가운뎃점 (대화 글꼴 = ASCII 0x20~0x5F + 한글뿐)
+            ('！', '!'), ('？', '?'), ('（', '('), ('）', ')'), ('２', '2'),
+            ('—', '-'), ('―', '-'), ('ㅡ', '-'), ('·', '/')]
 
 
 def normalize(t, src=''):
@@ -37,6 +40,8 @@ def normalize(t, src=''):
     for a, b in AUTO_FIX:
         t = t.replace(a, b)
     t = re.sub(r'[a-z]+', lambda m: m.group().upper(), t)      # dialogue font: capitals only
+    if 'x' in src:                       # the credits write the copyright sign as a lowercase x («x 2000 NINTENDO»)
+        t = t.replace('ⓒ', 'x')
     return t if '  ' in src else re.sub(' {2,}', ' ', t)      # keep deliberate runs (intro " {0A}  {0A}…")
 
 
@@ -111,7 +116,7 @@ def validate(src, kr, kind, adv, glyph_ok):
     other = sorted(set(re.findall(r'\{([0-9A-F]{2})\}', k)) - {'0A', '7F'} - {f'8{i}' for i in range(8)})
     if other:
         err.append(f'알 수 없는 제어 코드 {other}')
-    bad = sorted({c for c in TOKEN.sub('', k) if not glyph_ok(c)})
+    bad = sorted({c for c in TOKEN.sub('', k) if not glyph_ok(c) and c not in src})   # src glyphs exist in the game font
     if bad:
         err.append('글꼴에 없는 글자 ' + ''.join(bad))
     if src.count('{0A}') != k.count('{0A}'):
